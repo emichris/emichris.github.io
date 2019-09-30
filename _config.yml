@@ -66,10 +66,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  linkedin: christian-emiyah-17a5725b
+  linkedin: "christian-emiyah-17a5725b"
   email: "christian.emiyah@gmail.com"
-  facebook: christian.emiyah
-  github: emichris.github.io
+  facebook: "christian.emiyah"
+  github: "emichris.github.io"
   #twitter: Christian 
   telephone: +14435275893
 #  reddit: yourname
