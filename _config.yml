@@ -1,7 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Data Analytics and Modelling
+#title: Data Analytics and Modelling
+
+# Name of website
+title: My website
 
 # Short description of your site
 description: Showcasing previous and current work using Data Science techniques. 
