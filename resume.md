@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Curriculum vitae
+title: Curriculum vitae
+image: "https://media.licdn.com/dms/image/C5103AQFKpVTMi96ziw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=vD95JjYz4zz_6sz1d00tgpmKBq5jjBEIW-a9eKe8NnI"
 ---
 
 ## Christian Emiyah
