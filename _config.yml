@@ -4,7 +4,7 @@
 title: Data Analytics and Modelling
 
 # Short description of your site
-description: Showcasing previous and current work using Data Science techniques. 
+description: My Software Engineering & Data Analysis journey. 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,6 +22,7 @@ description: Showcasing previous and current work using Data Science techniques.
 navbar-links:
   Bio: "aboutme"
   Resume: "resume"
+  Home: "emichris.github.io"
   ##Resources:
     ##- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     ##- Learn markdown: "http://www.markdowntutorial.com/"
