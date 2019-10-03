@@ -1,7 +1,7 @@
 ---
 title: Facial Recognition Using Principal Component Analysis
 tags: [face recognition, PCA]
-image: "https://cdn-images-1.medium.com/max/900/1*fZT8fZ5EGJqM6_J0c392Wg.jpeg"
+image: "http://cvlab.cse.msu.edu/images/teasers/feature_transfer_longtail.png"
 ---
 
 **Principal Component Analysis (PCA)** is a statistical/linear algebra method that uses orthogonal transformations to decompose a piece of data with potentially correlated components into a linearly uncorrelated set of data containing principal components. In doing PCA, a new coordintate system is found such that the greatest variance by any projection of the data lies on the first coordinate, the second greatest variance on the second coordinate, and so on... 
