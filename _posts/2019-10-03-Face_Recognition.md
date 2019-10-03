@@ -45,7 +45,7 @@ for i = 1 : 40
 end
 ```
 
-![**Faces**](https://github.com/emichris/emichris.github.io/blob/master/img/Faces.png)
+![Faces](https://github.com/emichris/emichris.github.io/blob/master/img/Faces.png)
 
 
 ```
@@ -121,6 +121,6 @@ xlabel('Number of Principal Components', 'FontWeight', 'bold')
 ylabel('Recognition Rate', 'FontWeight', 'bold')
 ```
 
-**![PCA_Recognition_Rate.png](https://github.com/emichris/emichris.github.io/blob/master/img/PCA_Recognition_Rate.png)**
+![PCA_Recognition_Rate.png](https://github.com/emichris/emichris.github.io/blob/master/img/PCA_Recognition_Rate.png)
 
 **The system achieved a recognition rate more than 90% with less than 10% (32) principal components. This drastic fall in the number of components (features) needed to model the system makes Principal Component Analysis a highly coveted tool in computer vision (which can be extended to machine learning).**
