@@ -18,7 +18,7 @@ Doctor of Engineering in Electrical and Computer Engineering (in progress)
 ### SOFTWARE SKILLS: Machine Learning, Python, Matlab, C, C++, SQL, R
 
 ### WORK AND RESEARCH EXPERIENCE
-##### _Machine Learning Applications with Bayesian – Doctoral Work 	(MSU)	     		     Jan 2018 - Current_
+##### _Machine Learning Applications with Bayesian – Doctoral Work 	(MSU)	     		     Jan 2019 - Current_
 •	Applying Bayesian statistics to Machine Learning Model used on CDC’s Drug Overdose Epidemic data
 •	Machine Learning with Text Analysis, Natural Language Processing, Object Recognition, Modelling and Forecasting using Python’s Scikit-learn, Pandas, Numpy and NLTK libraries.
 
