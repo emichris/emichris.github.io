@@ -11,7 +11,8 @@ christian.emiyah@gmail.com
 443-527-5893
 
 ### EDUCATION – Morgan State University (MSU)	                              	                  Baltimore, MD
-Bachelor of Science in Electrical and Computer Engineering (2015);        Master of Arts in Mathematics (2017)	
+Bachelor of Science in Electrical and Computer Engineering (2015);        Master of Arts in Mathematics (2017)
+
 Doctor of Engineering in Electrical and Computer Engineering (in progress)	
 
 ### SOFTWARE SKILLS: Machine Learning, Python, Matlab, C, C++, SQL, R
@@ -42,7 +43,7 @@ Doctor of Engineering in Electrical and Computer Engineering (in progress)
 •	Achieved more than 90% pass rate; more than 50% of the students graduated to become strong leaders
 
 ##### _President, LoveWorld Campus Ministry – MSU		                                      Aug 2015 – May 2017_
-•	Academic excellence and leadership development in members through mentorship, tutoring and counselling
+•	Academic excellence and leadership development in members through mentorship, tutoring and counselling.
 •	Organized events that saw over 300 students from across United States in attendance
 
 ### PUBLICATIONS AND PATENT
