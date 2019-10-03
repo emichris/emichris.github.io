@@ -4,21 +4,22 @@ title: Curriculum vitae
 image: "https://media.licdn.com/dms/image/C5103AQFKpVTMi96ziw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=vD95JjYz4zz_6sz1d00tgpmKBq5jjBEIW-a9eKe8NnI"
 ---
 
-## ->Christian Emiyah<-
+ ->**Christian Emiyah**<-
 900 Southerly Rd Apt 449  
 Towson, MD 21204  
-christian.emiyah@gmail.com  
+<christian.emiyah@gmail.com>  
 443-527-5893  
 
-### EDUCATION – Morgan State University (MSU)	                              	                  Baltimore, MD
+### EDUCATION
+**Morgan State University (MSU)	                              	                  Baltimore, MD**
 Bachelor of Science in Electrical and Computer Engineering (2015);        Master of Arts in Mathematics (2017)  
 Doctor of Engineering in Electrical and Computer Engineering (in progress)	
 
 ### SOFTWARE SKILLS
-##### Machine Learning, Python, Matlab, C, C++, SQL, R
+**Machine Learning, Python, Matlab, C, C++, SQL, R**  
 
 ### WORK AND RESEARCH EXPERIENCE
-##### _Machine Learning Applications with Bayesian – Doctoral Work 	(MSU)	     		     Jan 2019 - Current_
+***_Machine Learning Applications with Bayesian – Doctoral Work 	(MSU)	     		     Jan 2019 - Current***
 •	Applying Bayesian statistics to Machine Learning Model used on CDC’s Drug Overdose Epidemic data  
 •	Machine Learning with Text Analysis, Natural Language Processing, Object Recognition, Modelling and Forecasting using Python’s Scikit-learn, Pandas, Numpy and NLTK libraries.  
 
