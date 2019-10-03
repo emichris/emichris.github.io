@@ -6,16 +6,6 @@ title: Data Analytics and Modelling
 # Short description of your site
 description: My Software Engineering & Data Analysis journey. 
 
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
-
-# baseurl should be an empty string
-#baseurl: ""
-
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -23,6 +13,7 @@ navbar-links:
   Bio: "aboutme"
   Resume: "resume"
   Home: "emichris.github.io"
+  Resources: "resource"
   ##Resources:
     ##- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     ##- Learn markdown: "http://www.markdowntutorial.com/"
@@ -53,7 +44,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
@@ -108,14 +99,6 @@ url-pretty: "emichris.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # Google Tag Manager ID
 #gtm: ""
 
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
 
 # --- Comments --- #
 
