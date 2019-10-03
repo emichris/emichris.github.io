@@ -6,4 +6,4 @@ subtitle: A complete learning path including resources that won’t cost you a f
 The average cost of obtaining a masters degree at traditional bricks and mortar institutions will set you back anywhere between $30,000 and $120,000. Even online data science degree programs don’t come cheap costing a minimum of $9,000. So what do you do if you want to learn data science but can’t afford to pay this? Read more at [https://towardsdatascience.com/how-to-learn-data-science-for-free](https://towardsdatascience.com/how-to-learn-data-science-for-free-eda10f04d083)
 
 Data Scientist and Machine Learning programming langauge preference: [2018 Kaggle ML & DS Survey](https://www.kaggle.com/sudhirnl7/data-science-survey-2018)
-![img](https://drive.google.com/open?id=1g7287Q9Jjl-WKOkzwrcB69rjimv7Y2Jv)
+![img](https://lh4.googleusercontent.com/u3t40rB8jKEUlWeaswxqJtnAtIK2W5dYzi8qBJul3XEnc8C9JqAeygUgKTCFSnKNy6M7ZcmifT4DLwKnd-Mc=w1920-h881-rw)
