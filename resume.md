@@ -11,7 +11,7 @@ Towson, MD 21204
 443-527-5893  
 
 ### EDUCATION
-**Morgan State University (MSU)	                              	                  Baltimore, MD**  
+**Morgan State University (MSU)	                                Baltimore, MD**  
 ⋅⋅* Bachelor of Science in Electrical and Computer Engineering (2015)       
 ⋅⋅* Master of Arts in Mathematics (2017)  
 ⋅⋅* Doctor of Engineering in Electrical and Computer Engineering (in progress)	
@@ -20,7 +20,7 @@ Towson, MD 21204
 **Python, Matlab, C, C++, SQL, R, HTML, CSS**  
 
 ### WORK AND RESEARCH EXPERIENCE
-***Machine Learning Applications with Bayesian – Doctoral Work 	(MSU)	     		     Jan 2019 - Current***  
+***Machine Learning Applications with Bayesian – Doctoral Work (MSU)	     		     Jan 2019 - Current***  
 •	Applying Bayesian statistics to Machine Learning Model used on CDC’s Drug Overdose Epidemic data  
 •	Machine Learning with Text Analysis, Natural Language Processing, Object Recognition, Modelling and Forecasting using Python’s Scikit-learn, Pandas, Numpy and NLTK libraries.  
 
@@ -55,3 +55,12 @@ Towson, MD 21204
 •	_Patent:_ K. Nyarko, C. Emiyah and S. Mbugua. 2017. System and Method for Lighting and Building Occupant Tracking, U.S. Patent Application 15430904, Patent Number US 9,973,275 B2 May 15, 2018   
 •	_Publication:_ K. Nyarko and C. Emiyah, “A Low-Cost Demonstration Platform for Reducing Energy Consumption by Regulating Building Controls through VLC,” Proceedings of World Scientific and Engineering Academy and Society, September 2013, Baltimore, USA   
 •	_Publication:_ K. Nyarko, C. Emiyah and S. Mbugua. “Building Occupant and Asset Localization and Tracking Using Visible Light Communication”, Proc. SPIE 9844, Automatic Target Recognition XXVI, 98440B (May 12, 2016); doi:10.1117/12.2224089; http://dx.doi.org/10.1117/12.2224089
+
+
+### ATTENDED CONFERENCES
+1. Super Computing Conference [SC12](http://sc12.supercomputing.org/), Salt Lake City, Utah, USA
+2. Richard Tapia Celebration of Diversity in Computing [Tapia](http://tapiaconference.org/about/)
+3. Command, Control and Interoperability Center for Advanced Data Analysis [CCICADA](https://ccicada.org/) Conference, Howard University, Washington DC
+4. IEEE Student Activity Conference [IEEESAC](http://www.sacconference.com/), Ohio State University
+5. Modeling and Optimization: Theory and Applications (MOPTA) Conference, Lehigh University, Pennsylvania [link](http://coral.ie.lehigh.edu/~mopta/)
+6. Applied Mathematics: The Next 50 Years Workshop and Conference, University of Washington [link](https://depts.washington.edu/amath/amath50/index.shtml)
