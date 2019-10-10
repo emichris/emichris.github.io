@@ -12,9 +12,9 @@ Towson, MD 21204
 
 ### EDUCATION
 **Morgan State University (MSU)	                                Baltimore, MD**  
-⋅⋅* Bachelor of Science in Electrical and Computer Engineering (2015)       
-⋅⋅* Master of Arts in Mathematics (2017)  
-⋅⋅* Doctor of Engineering in Electrical and Computer Engineering (in progress)	
+* Bachelor of Science in Electrical and Computer Engineering (2015)       
+* Master of Arts in Mathematics (2017)  
+* Doctor of Engineering in Electrical and Computer Engineering (in progress)	
 
 ### SOFTWARE SKILLS
 **Python, Matlab, C, C++, SQL, R, HTML, CSS**  
@@ -32,7 +32,7 @@ Towson, MD 21204
 •	Developed software program to classify skin lesion images into benign or cancerous using Python’s Deep Learning Library: Keras running on TensorFlow and Theano.   
 •	Achieved 80% accuracy on ISBI skin lesion image set (2000 training images and 600 test images)  
 
-***Intelligent Building Operations Using Visible Light Communication (VLC) – MSU	     Jul 2013 – Dec 2016***  
+***Intelligent Building Operations Using Visible Light Communication (VLC)     Jul 2013 – Dec 2016***  
 •	Developed java-based program for encoding and decoding data using VLC with Arduino microcontroller  
 •	Designed hardware that powered the operation of the luminaries   
 •	Technical documentation of design and implementation with two published paper (details below)  
