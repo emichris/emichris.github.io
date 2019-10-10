@@ -12,11 +12,12 @@ Towson, MD 21204
 
 ### EDUCATION
 **Morgan State University (MSU)	                              	                  Baltimore, MD**  
-Bachelor of Science in Electrical and Computer Engineering (2015);        Master of Arts in Mathematics (2017)  
-Doctor of Engineering in Electrical and Computer Engineering (in progress)	
+⋅⋅* Bachelor of Science in Electrical and Computer Engineering (2015)       
+⋅⋅* Master of Arts in Mathematics (2017)  
+⋅⋅* Doctor of Engineering in Electrical and Computer Engineering (in progress)	
 
 ### SOFTWARE SKILLS
-**Machine Learning, Python, Matlab, C, C++, SQL, R**  
+**Python, Matlab, C, C++, SQL, R, HTML, CSS**  
 
 ### WORK AND RESEARCH EXPERIENCE
 ***Machine Learning Applications with Bayesian – Doctoral Work 	(MSU)	     		     Jan 2019 - Current***  
@@ -38,14 +39,17 @@ Doctor of Engineering in Electrical and Computer Engineering (in progress)
 •	Performed system analysis by implementing bit rate and bit error rate computations in real time  
 •	Formal presentation of work in several seminars and conferences including at the Executive Building in DC  
 
-### LEADERSHIP AND DEVELOPMENT
+### EXTRA CURRICULAR ACTIVITIES
+***Program Mentor, Verizon Innovative Learning for Middle School Boys – MSU	 Jan 2019 – Aug 2019***
+•	Mentored 14 students through an intensive learning experience including courses in Augmented and Virtual Reality, Computer Programming, 3D Design, Entrepreneurship and Design Thinking principles.
+
 ***Instructor, LoveWorld Foundation Course				                                      Aug 2017 – Dec 2018***  
 •	Responsible for conducting both online and in-person classes using provided curriculum.   
 •	Achieved more than 90% pass rate; more than 50% of the students graduated to become strong leaders  
 
-***President, LoveWorld Campus Ministry – MSU \t	                                      Aug 2015 – May 2017***  
+***President, LoveWorld Campus Ministry – MSU	                                      Aug 2015 – May 2017***  
 •	Academic excellence and leadership development in members through mentorship, tutoring and counselling.  
-•	Organized events that saw over 300 students from across United States in attendance  
+•	Organized events that saw over 300 students from across the United States in attendance  
 
 ### PUBLICATIONS AND PATENT  
 •	_Patent:_ K. Nyarko, C. Emiyah and S. Mbugua. 2017. System and Method for Lighting and Building Occupant Tracking, U.S. Patent Application 15430904, Patent Number US 9,973,275 B2 May 15, 2018   
