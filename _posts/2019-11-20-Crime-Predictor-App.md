@@ -2,7 +2,7 @@
 layout: post
 title: LA Crime Predictor
 subtitle: Using Linear Regression
-image: "https://github.com/emichris/Crime-Predictor-App/blob/gh-pages/static/media/LA-city1.63ebbabb.jpg"
+image: "https://raw.githubusercontent.com/emichris/emichris.github.io/master/img/LA-Crime-Predictor.jpg"
 tags: [React, Predictive Analytics, Linear Regression, Web Application]
 ---
 
